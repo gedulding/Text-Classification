@@ -1,0 +1,2 @@
+https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2
+下载的文件名为“zhwiki-latest-pages-articles.xml.bz2”
